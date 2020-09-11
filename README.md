@@ -2,6 +2,12 @@
 
 Information about accessing The Cyber Plumber's Handbook Lab boxes.
 
+## Product URLs
+
+* [The Cyber Plumber's Handbook, Lab Guide, and 28 days of interactive lab access](https://gumroad.com/l/cph_book_and_lab)
+* [Lab Guide and 28 days of interactive lab access](https://gumroad.com/l/cphlab)
+* [The Cyber Plumber's Handbook](https://gumroad.com/l/the_cyber_plumbers_handbook)
+
 ## Lab Boxes
 
 | Box      | Public IP       | DNS                    | Private IP |
