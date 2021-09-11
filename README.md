@@ -1,12 +1,12 @@
 # Overview
 
-Information about accessing The Cyber Plumber's Handbook Lab boxes.
+Information about accessing The Cyber Plumber's Handbook Lab boxes.  The Cyber Plumber's Handbook can be found for free
+[here](https://github.com/opsdisk/the_cyber_plumbers_handbook).
 
-## Product URLs
+## Product URL
 
-* [The Cyber Plumber's Handbook, Lab Guide, and 28 days of interactive lab access](https://gumroad.com/l/cph_book_and_lab)
-* [Lab Guide and 28 days of interactive lab access](https://gumroad.com/l/cphlab)
-* [The Cyber Plumber's Handbook](https://gumroad.com/l/the_cyber_plumbers_handbook)
+* [Lab Guide and 28 days of interactive lab access](https://opsdisk.gumroad.com/l/cphlab)
+
 
 ## Lab Boxes
 
